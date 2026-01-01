@@ -1,48 +1,46 @@
 # Sharjeel Khan
-**Python Engineer | Computer Vision & Machine Learning** *Pakistan 🇵🇰*
+**Python Engineer | Computer Vision & Machine Learning**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel-pathan-934a7b241) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-25292e?style=flat&logo=google-chrome&logoColor=white)](mailto:sharjeelpathan2003@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel-pathan-934a7b241) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharjeelpathan2003@gmail.com)
 
 ---
 
 ### 🧑‍💻 Professional Summary
-I am a Python Developer specializing in **Computer Vision** and **Scalable Backend Systems**. Currently, I am focused on building **Video Analyzer**, a platform leveraging Deep Learning to extract actionable insights from visual data. My goal is to bridge the gap between complex AI models and production-ready applications.
+I am a Python Developer specializing in **Computer Vision** and **Scalable Backend Systems**. Currently, I am focused on building **Video Analyzer**, a platform leveraging Deep Learning to extract actionable insights from visual data.
 
-- 🔭 **Currently Building:** [Video Analyzer] - Advanced video processing and object detection.
-- ⚙️ **Tech Stack:** Python (Expert), Django, Flask, TensorFlow, PyTorch.
-- 🌱 **Core Research:** Optimizing model inference and real-time data streaming.
-- 💬 **Collaboration:** Looking to contribute to high-impact Open Source AI projects.
+- 🔭 **Current Project:** [Video Analyzer] - Advanced video processing and object detection.
+- ⚙️ **Tech Stack:** Python, Django, Flask, TensorFlow, PyTorch.
+- 🌱 **Learning:** Mastering backend architecture and model deployment.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-| Domain | Proficiency |
+| Domain | Tools & Technologies |
 | :--- | :--- |
-| **Artificial Intelligence** | TensorFlow, PyTorch, OpenCV, Pandas, Model Training |
-| **Backend & Databases** | Django, Flask, SQLite, Firebase, REST APIs |
+| **Artificial Intelligence** | TensorFlow, PyTorch, OpenCV, Pandas |
+| **Backend & DB** | Django, Flask, SQLite, Firebase |
 | **Languages** | Python, C++, Dart, SQL |
-| **DevOps & Tools** | Git, Android Studio, Flutter, Linux |
+| **Tools** | Git, Flutter, Android Studio, Linux |
 
 ---
 
 ### 📈 Technical Impact
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharjeel-hub&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeel-hub&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharjeel-hub&show_icons=true&theme=dark&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeel-hub&show_icons=true&theme=dark&layout=compact&hide_border=false" />
 </p>
 
----
-
 ### 🏆 GitHub Contributions
+
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel-hub&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel-hub&theme=dark&hide_border=false" />
 </p>
 
 ---
 
 ### ✉️ Get In Touch
-* **Email:** [sharjeelpathan2003@gmail.com](mailto:sharjeelpathan2003@gmail.com)
-* **Location:** Pakistan (Available for Remote Global Collaboration)
+* **Email:** sharjeelpathan2003@gmail.com
+* **Location:** Pakistan 🇵🇰
