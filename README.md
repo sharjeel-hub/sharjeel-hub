@@ -1,7 +1,7 @@
-# Sharjeel Khan
+# Sharjeel Pathan
 **Founder & CEO @ Aqlithos** | **AI/ML Specialist** | **Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel-khan-934a7b241) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel-pathan-934a7b241) 
 [![Website](https://img.shields.io/badge/Aqlithos-25292e?style=flat-square&logo=google-chrome&logoColor=white)](http://www.aqlithos.com)
 [![Expertise](https://img.shields.io/badge/Focus-AI_Vision_%26_SaaS-blueviolet?style=flat-square)](#)
 
